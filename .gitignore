@@ -1,7 +1,7 @@
-/node_modules
-/index.html
-/public
-/startme.sh
-/.git
-/.gitignore
+node_modules/
+index.html/
+public/
+startme.sh
+.git/
+.gitignore
 
